@@ -1,5 +1,5 @@
 ## Exp. No. 3(b)
-**Date:**  
+**Date: 15/09/2025**  
 
 ## DESIGN OF COLPITTS OSCILLATOR 
 <img width="524" height="707" alt="image" src="https://github.com/user-attachments/assets/0c63bf2d-f37a-46bf-a132-aec6a8f6dbb7" />
@@ -16,11 +16,14 @@
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
 |            |              |                      |                        |
+![WhatsApp Image 2025-11-20 at 22 30 57_221ae554](https://github.com/user-attachments/assets/68f3c1db-0adf-4c66-a760-0be72a8891a8)
 
 # Graph
+![WhatsApp Image 2025-11-20 at 22 30 57_ceee843c](https://github.com/user-attachments/assets/6c89aad0-4add-43d4-9283-1a46cc4bffa7)
 
 
 # Sample images 
+![WhatsApp Image 2025-11-20 at 22 30 42_bac4dce5](https://github.com/user-attachments/assets/28bfa0ed-0b1d-4a45-99da-df812c19a944)
 
 
 # Result
