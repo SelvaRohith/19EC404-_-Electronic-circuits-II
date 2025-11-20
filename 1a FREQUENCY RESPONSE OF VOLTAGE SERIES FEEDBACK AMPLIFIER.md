@@ -14,12 +14,16 @@
 
 ## Tabulation
 
+![WhatsApp Image 2025-11-20 at 22 30 35_c31b87b2](https://github.com/user-attachments/assets/be443e09-4d62-4860-9a11-98bfad896adb)
 
 ## Graph
+
+![WhatsApp Image 2025-11-20 at 22 30 35_52c32f73](https://github.com/user-attachments/assets/c0883b45-be9e-4c5f-84e2-66446657db03)
 
 
 ## Sample images 
 
+![WhatsApp Image 2025-11-20 at 22 30 41_14d4d3ea](https://github.com/user-attachments/assets/f55f0e16-a719-4f21-b4fa-190d30f914b5)
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
