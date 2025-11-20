@@ -15,13 +15,16 @@
 
 
 # Tabulation
+![WhatsApp Image 2025-11-20 at 22 30 45_dbc3037d](https://github.com/user-attachments/assets/271eed54-f0ed-4913-82d9-62d7c41d1423)
 
 
 # Graph
 
+![WhatsApp Image 2025-11-20 at 22 30 45_bb31646a](https://github.com/user-attachments/assets/3e5c4c26-8d90-4c24-b98c-6cd05fb60018)
 
 # Sample images 
 
+![WhatsApp Image 2025-11-20 at 22 30 41_14d4d3ea](https://github.com/user-attachments/assets/ccef0b87-a2f2-483a-89b1-af166e7fd90a)
 
 ### **Result**
 
