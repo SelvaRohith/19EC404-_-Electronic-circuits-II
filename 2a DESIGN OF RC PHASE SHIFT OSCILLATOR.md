@@ -16,12 +16,18 @@
 | Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
 |------------|--------------|----------------------|------------------------|
 |            |              |                      |                        |
+![WhatsApp Image 2025-11-20 at 22 30 51_f28bdedd](https://github.com/user-attachments/assets/4e0a1765-c960-45c2-bb54-15fbd44c2dee)
+
 
 # Graph
+![WhatsApp Image 2025-11-20 at 22 30 50_63147b7e](https://github.com/user-attachments/assets/1da0f2d5-77de-4de2-824e-21303ef20bac)
 
 
 
-# Sample images 
+
+# Sample images
+![WhatsApp Image 2025-11-20 at 22 30 41_e7783fda](https://github.com/user-attachments/assets/ecb9da47-80ce-47e0-a90a-09c4ed3c8fba)
+
 
 
 
